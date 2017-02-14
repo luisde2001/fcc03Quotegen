@@ -1,0 +1,12 @@
+https://medium.freecodecamp.com/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08#.s4az4v9xa
+https://medium.freecodecamp.com/building-a-random-quote-machine-project-6e8d10430f4a#.kxqn855o0
+https://www.reddit.com/r/FreeCodeCamp/comments/4b1fox/free_api_for_random_quote_machine/
+
+MUY BUENA:
+http://iviewsource.com/codingtutorials/getting-started-with-javascript-object-notation-json-for-absolute-beginners/
+
+https://www.smashingmagazine.com/2012/02/beginners-guide-jquery-based-json-api-clients/#player-2-jquery
+https://www.digitalocean.com/community/tutorials/how-to-work-with-json-in-javascript
+
+IMPORTANTE:
+https://forum.freecodecamp.com/t/what-to-know-before-beginning-random-quote-machine/9815/26
